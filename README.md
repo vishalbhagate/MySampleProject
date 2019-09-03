@@ -1,3 +1,3 @@
 MySampleProject
 
-Episode 1
+EPISODE 2
